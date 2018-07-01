@@ -9,7 +9,7 @@ import Column from "./Column";
 import friends from "./friends.json";
 import "./App.css";
 
-// Random shuffle
+// Random shuffle: https://code.i-harness.com/en/q/25660a
 function randomFriends(array) {
   for (let i = array.length - 1; i > 0; i--) {
     let j = Math.floor(Math.random() * (i + 1));
