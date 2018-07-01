@@ -16,5 +16,16 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
+  },
+  "description": "This application keeps track of the user's score. The user's score should be incremented when clicked on an image for the first time. The user's score should be reset to 0 if user clicked the same image more than once.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ally0426/clickyGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ally0426/clickyGame/issues"
   }
 }
