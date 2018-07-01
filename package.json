@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://ally0426.github.io/clickyGame/",
   "dependencies": {
+    "eslint-plugin-import": "^2.13.0",
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
