@@ -2,10 +2,7 @@
 
 Heroku: https://afternoon-depths-34147.herokuapp.com/
 
-This application keeps track of the user's score. The user's score should be incremented when clicked on an image for the first time. The user's score should be reset to 0 if user clicked the same image more than once.
-
-- Every time an image is clicked, the images shuffle themselves in a random order.
-- Once the user's score is reset after an incorrect guess, the game restarts.
+Click game: This is a memory game with React. You have to make sure you don’t click on the same cards twice to earn a point. A new game starts if you click on the same card.
 
 ## Technologies used
 - React
